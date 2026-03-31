@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "entregado": "false",
+    "descripcion": "Laptop Gamer ASUS ROG Zephyrus G14 - 16GB RAM - 1TB SSD",
+    "importe": 1450.0
+  },
+  {
+    "id": 102,
+    "entregado": "false",
+    "descripcion": "Monitor LG UltraGear 27\" QHD Nano IPS 165Hz",
+    "importe": 380.5
+  },
+  {
+    "id": 103,
+    "entregado": "false",
+    "descripcion": "Teclado Mecánico Keychron Q1 Pro Custom RGB",
+    "importe": 199.99
+  },
+  {
+    "id": 104,
+    "entregado": "false",
+    "descripcion": "Tarjeta Gráfica NVIDIA GeForce RTX 4070 Ti",
+    "importe": 820.0
+  },
+  {
+    "id": 105,
+    "entregado": "false",
+    "descripcion": "Audífonos Sony WH-1000XM5 con Noise Cancelling",
+    "importe": 348.0
+  },
+  {
+    "id": 106,
+    "entregado": "false",
+    "descripcion": "Mouse Logitech G Pro X Superlight 2 Wireless",
+    "importe": 159.0
+  },
+  {
+    "id": 107,
+    "entregado": "false",
+    "descripcion": "Disco Duro Externo Samsung T7 Shield 2TB SSD",
+    "importe": 175.5
+  },
+  {
+    "id": 108,
+    "entregado": "false",
+    "descripcion": "Procesador AMD Ryzen 9 7950X - 16 Cores",
+    "importe": 540.0
+  }
+]
