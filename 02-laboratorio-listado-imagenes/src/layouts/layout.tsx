@@ -49,7 +49,7 @@ export const Layout = () => {
           <Typography variant="h3">TIENDA DE IMÁGENES</Typography>
 
           <IconButton color="inherit" onClick={toggleCart}>
-            <ShoppingCartIcon />
+            <ShoppingCartIcon sx={{ fontSize: 50 }} />
           </IconButton>
         </Toolbar>
       </AppBar>
