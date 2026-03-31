@@ -67,6 +67,8 @@ export const Login: React.FC<Props> = ({ onLogin }) => {
               LOGIN
             </Button>
           </Box>
+          <Typography>Usuario : admin</Typography>
+          <Typography>Password : test</Typography>
         </Paper>
       </Container>
     </>
